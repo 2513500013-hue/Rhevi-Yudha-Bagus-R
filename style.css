@@ -1,0 +1,17 @@
+/* Custom penyesuaian tampilan di luar kelas bawaan Bootstrap */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 950px;
+}
+
+/* Mengubah warna tema primary jika ingin kustom */
+.text-primary {
+    color: #0d6efd !important;
+}
+
+.bg-primary {
+    background-color: #0d6efd !important;
+}
